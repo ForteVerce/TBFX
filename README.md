@@ -12,9 +12,3 @@ This repository collects all public-facing promotional material for the token so
 | `social/telegram/` | Pre-formatted announcements and FAQ scripts |
 | `assets/images/` | Logos, banners, and other visual assets (SVG/PNG) |
 
-## Quick Start
-```bash
-# 1 — clone and install hooks
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
-./scripts/setup.sh   # adds commit-msg lint + pre-push image optimiser
